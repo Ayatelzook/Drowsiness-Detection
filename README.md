@@ -10,6 +10,7 @@ For each set of landmarks detected:
 - The code extracts landmarks for the left and right eyes.
 - The EAR is calculated for both eyes.
  ![eye](https://github.com/user-attachments/assets/4309e85b-2d78-434b-961b-391984910176)
+![1_8bQB2IjpraO9gegFGkZmiw](https://github.com/user-attachments/assets/32a56be2-e667-4ae2-b177-5265d6f0bc0c)
 
 
 ###  Drawing Eye Contours
